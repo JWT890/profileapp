@@ -1,3 +1,5 @@
+AWS + React exercise at learning Amplify with a basic web app from AWS hands on tutorials website
+
 <<<<<<< HEAD
 # React + Vite
 
